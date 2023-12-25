@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Артем\Desktop\kcds\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(109,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Артем\Desktop\kcds\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(131,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Артем\Desktop\kcds\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
